@@ -17,7 +17,7 @@ namespace testapp.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Con cho thoai an cuc.";
 
             return View();
         }
